@@ -1,0 +1,28 @@
+D:\visual studio (exercícios)\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.exe
+D:\visual studio (exercícios)\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.deps.json
+D:\visual studio (exercícios)\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.runtimeconfig.json
+D:\visual studio (exercícios)\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.runtimeconfig.dev.json
+D:\visual studio (exercícios)\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.dll
+D:\visual studio (exercícios)\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.pdb
+D:\visual studio (exercícios)\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csproj.AssemblyReference.cache
+D:\visual studio (exercícios)\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio (exercícios)\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfoInputs.cache
+D:\visual studio (exercícios)\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfo.cs
+D:\visual studio (exercícios)\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csproj.CoreCompileInputs.cache
+D:\visual studio (exercícios)\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.dll
+D:\visual studio (exercícios)\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.pdb
+D:\visual studio (exercícios)\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.genruntimeconfig.cache
+C:\Users\GEOVANE\Desktop\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.exe
+C:\Users\GEOVANE\Desktop\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.deps.json
+C:\Users\GEOVANE\Desktop\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.runtimeconfig.json
+C:\Users\GEOVANE\Desktop\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.runtimeconfig.dev.json
+C:\Users\GEOVANE\Desktop\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.dll
+C:\Users\GEOVANE\Desktop\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.pdb
+C:\Users\GEOVANE\Desktop\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\GEOVANE\Desktop\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEOVANE\Desktop\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\GEOVANE\Desktop\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfo.cs
+C:\Users\GEOVANE\Desktop\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\GEOVANE\Desktop\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.dll
+C:\Users\GEOVANE\Desktop\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.pdb
+C:\Users\GEOVANE\Desktop\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.genruntimeconfig.cache
